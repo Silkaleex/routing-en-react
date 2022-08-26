@@ -1,0 +1,15 @@
+div {
+  font-size: 3em;
+  font-size: bold;
+}
+a {
+  text-decoration: none;
+  color: white;
+  background: black;
+  padding: 10px 20px;
+  font-size: 12px;
+}
+.activar {
+  color: gold;
+  background: crimson;
+}
